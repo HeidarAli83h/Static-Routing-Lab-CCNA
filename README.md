@@ -38,3 +38,6 @@ This project demonstrates a basic static routing scenario using three routers, t
 
 ## ✅ Result
 All PCs can ping each other using statically configured routes on the routers.
+
+> ⚠️ License Notice:
+> This project was previously licensed under [MIT](LICENSE). As of 2025-07-04, it is now licensed under [Apache 2.0](LICENSE).
