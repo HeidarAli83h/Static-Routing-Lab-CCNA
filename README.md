@@ -7,10 +7,14 @@ This project demonstrates a basic static routing scenario using three routers, t
 - 3 Switches
 - 3 PCs
 
+----
+
 ## 🧠 Objectives
 - Configure IP addressing on routers and PCs
 - Enable connectivity between separate networks via static routing
 - Verify network reachability with `ping`
+
+----
 
 ## 🌐 IP Addressing Scheme
 
@@ -21,6 +25,16 @@ This project demonstrates a basic static routing scenario using three routers, t
 | LAN 1        | 192.168.1.0/24 | R1: 192.168.1.1      | PC1: 192.168.1.10 |
 | LAN 2        | 192.168.2.0/24 | R2: 192.168.2.1      | PC2: 192.168.2.10 |
 | LAN 3        | 192.168.3.0/24 | R3: 192.168.3.1      | PC3: 192.168.3.10 |
+
+----
+
+## 🖼️ Photos
+
+<p align="center">
+  <img src="image/static-route.jpg" width="500" alt="Diagram" />
+</p>
+
+----
 
 ## ✅ Result
 All PCs can ping each other using statically configured routes on the routers.
